@@ -23,17 +23,19 @@ I built this with zero prior Godot experience—learning GDScript, node trees, 2
 | ![dev.1](dev.1.png) | ![dev.2](dev.2.png) |
 
 
-## Some Feature Added
+*Some Feature Added*
+
 - **Character Physics & Movement**: 2D platforming movement handling running, jumping, velocity, and floor collision detection.
 - **Rolling Coin Collectibles**: Sine-wave bobbing animations for coins and collision triggers that increment your coin counter.
 - **Audio Feedback**: cute bg music and coin-collecting sound!
 - **TileMaps**: took me a while to understand how this shi works, but this is cool
 
-## Built With
+*Built With*
+
 - **Engine**: [Godot Engine 4.x](https://godotengine.org/)
 - **Language**: GDScript
 - **Assets**: 2D pixel art sprites, TileSet layers
 - **Audio**: Free sounds from google
-- **Published**: on itch.io (play the [coolerr]([url](https://duhh-h.itch.io/coolerr))
+- **Published**: [itch.io](https://duhh-h.itch.io/coolerr)
 
 Made with ❤️ by Poorvi
